@@ -1,2 +1,3 @@
 # party
-a library to generate different kinds of partitions for a set of items while justifying some restrictions on their ordering
+Party is a simple library to generate different kinds of partitions for a set
+ (while justifying some restrictions on ordering of its items).
